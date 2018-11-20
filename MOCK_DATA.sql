@@ -1,6 +1,6 @@
 -- Ref: mockaroo.com
-CREATE DATABASE mock_data;
-USE mock_data;
+CREATE DATABASE mocksql;
+USE mocksql;
 create table MOCK_DATA (
 	id INT,
 	first_name VARCHAR(50),
